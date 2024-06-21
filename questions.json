@@ -1,0 +1,1162 @@
+[
+    {
+        "correct_answer": "Crocodile",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Anaconda",
+            "Turtle",
+            "Iguana"
+        ],
+        "question": "What is the world's largest reptile?"
+    },
+    {
+        "correct_answer": "200 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "50 years",
+            "75 years",
+            "100 years"
+        ],
+        "question": "What is the average lifespan of a bowhead whale?"
+    },
+    {
+        "correct_answer": "Nile crocodile",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Lion",
+            "Crocodile",
+            "Hippo"
+        ],
+        "question": "Which of the following animals has the highest bite force?"
+    },
+    {
+        "correct_answer": "Crocodile",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Whale",
+            "Bat",
+            "Kangaroo"
+        ],
+        "question": "Which of the following animals is not a mammal?"
+    },
+    {
+        "correct_answer": "Plants",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Meat",
+            "Fish",
+            "Insects"
+        ],
+        "question": "What is the primary diet of a herbivorous animal?"
+    },
+    {
+        "correct_answer": "Fish and carrion",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Fish",
+            "Mice",
+            "Insects"
+        ],
+        "question": "What is the primary food source for a bald eagle?"
+    },
+    {
+        "correct_answer": "Monkeys",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Fish",
+            "Mammals",
+            "Insects"
+        ],
+        "question": "What is the primary diet of a harpy eagle?"
+    },
+    {
+        "correct_answer": "Carnivore",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Herbivore",
+            "Omnivore",
+            "Detrivore"
+        ],
+        "question": "What is the term for animals that primarily eat meat?"
+    },
+    {
+        "correct_answer": "500 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "200 years",
+            "300 years",
+            "400 years"
+        ],
+        "question": "What is the average lifespan of a Greenland shark?"
+    },
+    {
+        "correct_answer": "Nectar and insects",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Nectar",
+            "Insects",
+            "Seeds"
+        ],
+        "question": "What is the main diet of a hummingbird?"
+    },
+    {
+        "correct_answer": "Royal albatross",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Wandering albatross",
+            "California condor",
+            "Great frigatebird"
+        ],
+        "question": "Which of the following animals has the longest wingspan?"
+    },
+    {
+        "correct_answer": "Black mamba",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Boa constrictor",
+            "Python",
+            "King cobra"
+        ],
+        "question": "Which of the following is a venomous snake?"
+    },
+    {
+        "correct_answer": "Blue whale",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Elephant",
+            "Giraffe",
+            "Lion"
+        ],
+        "question": "What is the largest animal on Earth?"
+    },
+    {
+        "correct_answer": "Fruits and leaves",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Fish",
+            "Meat",
+            "Bamboo"
+        ],
+        "question": "What is the main diet of a gorilla?"
+    },
+    {
+        "correct_answer": "Felis domesticus",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Felis catus",
+            "Canis lupus",
+            "Equus ferus"
+        ],
+        "question": "What is the scientific name for a domestic cat?"
+    },
+    {
+        "correct_answer": "Dog",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Cat",
+            "Horse",
+            "Bird"
+        ],
+        "question": "Which animal is known as the \"man's best friend\"?"
+    },
+    {
+        "correct_answer": "Giraffe",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Elephant",
+            "Horse",
+            "Camel"
+        ],
+        "question": "What is the tallest animal in the world?"
+    },
+    {
+        "correct_answer": "3.5 meters",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "2 meters",
+            "3 meters",
+            "4 meters"
+        ],
+        "question": "What is the average wingspan of an albatross?"
+    },
+    {
+        "correct_answer": "Eight",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Six",
+            "Ten",
+            "Four"
+        ],
+        "question": "How many legs does a spider have?"
+    },
+    {
+        "correct_answer": "Chameleon",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Frog",
+            "Lizard",
+            "Snake"
+        ],
+        "question": "Which animal is known for its ability to change its color to blend with its surroundings?"
+    },
+    {
+        "correct_answer": "12 years",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "5 years",
+            "10 years",
+            "15 years"
+        ],
+        "question": "What is the average lifespan of a domestic cat?"
+    },
+    {
+        "correct_answer": "Meat",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Fish",
+            "Grass",
+            "Fruit"
+        ],
+        "question": "What is the primary diet of a tiger?"
+    },
+    {
+        "correct_answer": "Owl",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Lion",
+            "Tiger",
+            "Leopard"
+        ],
+        "question": "Which of these animals is a nocturnal hunter?"
+    },
+    {
+        "correct_answer": "2.5 meters",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "1 meter",
+            "2 meters",
+            "3 meters"
+        ],
+        "question": "What is the average wingspan of an eagle?"
+    },
+    {
+        "correct_answer": "Fish and carrion",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Fish",
+            "Mice",
+            "Insects"
+        ],
+        "question": "What is the primary diet of a bald eagle?"
+    },
+    {
+        "correct_answer": "Axolotl",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Lizard",
+            "Frog",
+            "Salamander"
+        ],
+        "question": "Which animal is known for its regenerative ability to regrow lost limbs?"
+    },
+    {
+        "correct_answer": "Bamboo",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Fish",
+            "Meat",
+            "Fruits"
+        ],
+        "question": "What is the primary diet of a panda?"
+    },
+    {
+        "correct_answer": "Kangaroo",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Rabbit",
+            "Squirrel",
+            "Fox"
+        ],
+        "question": "Which of the following animals is a marsupial?"
+    },
+    {
+        "correct_answer": "Chameleon",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Lion",
+            "Elephant",
+            "Gorilla"
+        ],
+        "question": "Which animal is known for its long sticky tongue?"
+    },
+    {
+        "correct_answer": "2.5 meters",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "1 meter",
+            "2 meters",
+            "3 meters"
+        ],
+        "question": "What is the average wingspan of a bald eagle?"
+    },
+    {
+        "correct_answer": "Insectivore",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Herbivore",
+            "Omnivore",
+            "Carnivore"
+        ],
+        "question": "What is the name of an animal that primarily eats insects?"
+    },
+    {
+        "correct_answer": "Sperm whale",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Human",
+            "Dolphin",
+            "Elephant"
+        ],
+        "question": "Which of the following animals has the largest brain relative to its body size?"
+    },
+    {
+        "correct_answer": "Bat",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Dolphin",
+            "Whale",
+            "Seal"
+        ],
+        "question": "Which of the following animals is known for its ability to echolocate?"
+    },
+    {
+        "correct_answer": "22 months",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "12 months",
+            "18 months",
+            "24 months"
+        ],
+        "question": "What is the gestation period of an elephant?"
+    },
+    {
+        "correct_answer": "Cheetah",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Elephant",
+            "Lion",
+            "Giraffe"
+        ],
+        "question": "What is the fastest land animal?"
+    },
+    {
+        "correct_answer": "Pride",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Herd",
+            "Flock",
+            "Pod"
+        ],
+        "question": "What is the name of a group of lions?"
+    },
+    {
+        "correct_answer": "12 years",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "10 years",
+            "15 years",
+            "20 years"
+        ],
+        "question": "What is the average lifespan of a domestic dog?"
+    },
+    {
+        "correct_answer": "500 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "200 years",
+            "300 years",
+            "400 years"
+        ],
+        "question": "What is the maximum recorded lifespan of a Greenland shark?"
+    },
+    {
+        "correct_answer": "Antarctica",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Rainforest",
+            "Tundra",
+            "Desert"
+        ],
+        "question": "What is the natural habitat of a penguin?"
+    },
+    {
+        "correct_answer": "Ursus maritimus",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Ursus arctos",
+            "Ursus horribilis",
+            "Ursus americanus"
+        ],
+        "question": "What is the scientific name for a polar bear?"
+    },
+    {
+        "correct_answer": "Jaguar",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Polar bear",
+            "Panda",
+            "Koala"
+        ],
+        "question": "Which animal can be found in the Amazon rainforest?"
+    },
+    {
+        "correct_answer": "Meat",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Plants",
+            "Fish",
+            "Insects"
+        ],
+        "question": "What is the main diet of a carnivorous animal?"
+    },
+    {
+        "correct_answer": "Lizard",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Frog",
+            "Salamander",
+            "Turtle"
+        ],
+        "question": "Which animal is known for its ability to regrow its tail?"
+    },
+    {
+        "correct_answer": "Kangaroo",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Lion",
+            "Tiger",
+            "Cheetah"
+        ],
+        "question": "Which of the following is not a member of the cat family?"
+    },
+    {
+        "correct_answer": "80 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "50 years",
+            "75 years",
+            "100 years"
+        ],
+        "question": "What is the average lifespan of a green sea turtle?"
+    },
+    {
+        "correct_answer": "Dromedary camel",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Camel",
+            "Lion",
+            "Tiger"
+        ],
+        "question": "Which animal is known as the 'ship of the desert'?"
+    },
+    {
+        "correct_answer": "Bat",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Flying squirrel",
+            "Pigeon",
+            "Eagle"
+        ],
+        "question": "What is the only mammal capable of sustained flight?"
+    },
+    {
+        "correct_answer": "3.7 meters",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "2 meters",
+            "2.5 meters",
+            "3 meters"
+        ],
+        "question": "What is the average wingspan of a wandering albatross?"
+    },
+    {
+        "correct_answer": "Eucalyptus forest",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Desert",
+            "Rainforest",
+            "Tundra"
+        ],
+        "question": "What is the natural habitat of a koala?"
+    },
+    {
+        "correct_answer": "Polar bear",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Grizzly bear",
+            "Black bear",
+            "Panda bear"
+        ],
+        "question": "What is the largest species of bear?"
+    },
+    {
+        "correct_answer": "Giant squid",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Fish",
+            "Squid",
+            "Krill"
+        ],
+        "question": "What is the main diet of a sperm whale?"
+    },
+    {
+        "correct_answer": "Hummingbird",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Robin",
+            "Penguin",
+            "Ostrich"
+        ],
+        "question": "Which bird is famous for its ability to fly backward?"
+    },
+    {
+        "correct_answer": "Seals and fish",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Fish",
+            "Seals",
+            "Plankton"
+        ],
+        "question": "What is the primary diet of a great white shark?"
+    },
+    {
+        "correct_answer": "25 years",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "20 years",
+            "30 years",
+            "40 years"
+        ],
+        "question": "What is the average lifespan of a horse?"
+    },
+    {
+        "correct_answer": "Berries and grasses",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Fish",
+            "Bamboo",
+            "Insects"
+        ],
+        "question": "What is the main diet of a brown bear?"
+    },
+    {
+        "correct_answer": "240 mph",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "150 mph",
+            "180 mph",
+            "200 mph"
+        ],
+        "question": "What is the top speed of a peregrine falcon?"
+    },
+    {
+        "correct_answer": "Shrew",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Bat",
+            "Mouse",
+            "Rabbit"
+        ],
+        "question": "What is the smallest mammal in the world?"
+    },
+    {
+        "correct_answer": "Krill",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Plankton",
+            "Fish",
+            "Octopus"
+        ],
+        "question": "What is the primary diet of a blue whale?"
+    },
+    {
+        "correct_answer": "Parrot",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Crow",
+            "Seagull",
+            "Eagle"
+        ],
+        "question": "Which bird is known for its ability to imitate a wide range of sounds?"
+    },
+    {
+        "correct_answer": "Lion",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Gorilla",
+            "Tiger",
+            "Bear"
+        ],
+        "question": "Which animal is known as the \"king of the jungle\"?"
+    },
+    {
+        "correct_answer": "Pack",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Herd",
+            "Flock",
+            "Pod"
+        ],
+        "question": "What is the name of a group of wolves?"
+    },
+    {
+        "correct_answer": "Leatherback sea turtle",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Hawksbill Turtle",
+            "Loggerhead sea turtle",
+            "Green sea turtle"
+        ],
+        "question": "Which of the following is the largest species of turtle?"
+    },
+    {
+        "correct_answer": "Zebra",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Tiger",
+            "Giraffe",
+            "Leopard"
+        ],
+        "question": "Which animal is known for its black and white stripes?"
+    },
+    {
+        "correct_answer": "75 mph",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "60 mph",
+            "70 mph",
+            "80 mph"
+        ],
+        "question": "What is the top speed of a cheetah?"
+    },
+    {
+        "correct_answer": "68 mph",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "40 mph",
+            "50 mph",
+            "60 mph"
+        ],
+        "question": "What is the top speed of a sailfish?"
+    },
+    {
+        "correct_answer": "Giraffe",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Horse",
+            "Elephant",
+            "Kangaroo"
+        ],
+        "question": "Which animal has the longest neck?"
+    },
+    {
+        "correct_answer": "Panda",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Koala",
+            "Gorilla",
+            "Zebra"
+        ],
+        "question": "Which animal is known for its distinctive black and white facial markings?"
+    },
+    {
+        "correct_answer": "Mimic octopus",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Chameleon",
+            "Octopus",
+            "Cuttlefish"
+        ],
+        "question": "Which of the following animals is known for its ability to camouflage itself by changing color and texture?"
+    },
+    {
+        "correct_answer": "Green anaconda",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Anaconda",
+            "King cobra",
+            "Reticulated python"
+        ],
+        "question": "What is the largest species of snake?"
+    },
+    {
+        "correct_answer": "Felis domesticus",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Felis catus",
+            "Canis lupus",
+            "Equus ferus"
+        ],
+        "question": "What is the scientific name for a house cat?"
+    },
+    {
+        "correct_answer": "250 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "100 years",
+            "150 years",
+            "200 years"
+        ],
+        "question": "What is the maximum recorded lifespan of a giant tortoise?"
+    },
+    {
+        "correct_answer": "35 mph",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "20 mph",
+            "25 mph",
+            "30 mph"
+        ],
+        "question": "What is the top speed of a brown bear?"
+    },
+    {
+        "correct_answer": "Plants",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Meat",
+            "Fish",
+            "Insects"
+        ],
+        "question": "What is the main diet of a herbivorous animal?"
+    },
+    {
+        "correct_answer": "Leopard",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Tiger",
+            "Lion",
+            "Cheetah"
+        ],
+        "question": "Which of the following is not a big cat?"
+    },
+    {
+        "correct_answer": "Swan",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Eagle",
+            "Crow",
+            "Pigeon"
+        ],
+        "question": "Which bird is known for its courtship dance on the water?"
+    },
+    {
+        "correct_answer": "Elephant",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Giraffe",
+            "Hippo",
+            "Rhino"
+        ],
+        "question": "What is the world's largest land animal?"
+    },
+    {
+        "correct_answer": "3.1 meters",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "2 meters",
+            "2.5 meters",
+            "3 meters"
+        ],
+        "question": "What is the average wingspan of a California condor?"
+    },
+    {
+        "correct_answer": "Bear",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Lion",
+            "Tiger",
+            "Elephant"
+        ],
+        "question": "Which animal is known for its ability to hibernate?"
+    },
+    {
+        "correct_answer": "Greenland shark",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Bowhead whale",
+            "African elephant",
+            "Galapagos tortoise"
+        ],
+        "question": "Which of the following animals has the longest lifespan?"
+    },
+    {
+        "correct_answer": "Viviparous",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Marsupial",
+            "Oviparous",
+            "Placental"
+        ],
+        "question": "What is the term for animals that give birth to live young?"
+    },
+    {
+        "correct_answer": "Koi fish",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "African elephant",
+            "Galapagos tortoise",
+            "Gray whale"
+        ],
+        "question": "Which animal has the longest lifespan in captivity?"
+    },
+    {
+        "correct_answer": "80 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "50 years",
+            "60 years",
+            "70 years"
+        ],
+        "question": "What is the average lifespan of an African elephant?"
+    },
+    {
+        "correct_answer": "Sailfish",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Blue whale",
+            "Dolphin",
+            "Shark"
+        ],
+        "question": "What is the world's fastest marine animal?"
+    },
+    {
+        "correct_answer": "Bee",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Ant",
+            "Butterfly",
+            "Mosquito"
+        ],
+        "question": "Which insect is known for its ability to produce honey?"
+    },
+    {
+        "correct_answer": "Elephant",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Lion",
+            "Tiger",
+            "Wolf"
+        ],
+        "question": "Which of the following animals is a herbivore?"
+    },
+    {
+        "correct_answer": "Dog",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Cat",
+            "Bear",
+            "Elephant"
+        ],
+        "question": "Which animal has the best sense of smell?"
+    },
+    {
+        "correct_answer": "Joey",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Pup",
+            "Cub",
+            "Fawn"
+        ],
+        "question": "What is the name for a baby kangaroo?"
+    },
+    {
+        "correct_answer": "Whale shark",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Great white shark",
+            "Hammerhead shark",
+            "Tiger shark"
+        ],
+        "question": "What is the world's largest fish?"
+    },
+    {
+        "correct_answer": "Platypus",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Kangaroo",
+            "Sloth",
+            "Giraffe"
+        ],
+        "question": "What is the only mammal that can lay eggs?"
+    },
+    {
+        "correct_answer": "Bamboo",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Fish",
+            "Meat",
+            "Fruits"
+        ],
+        "question": "What is the main diet of a panda?"
+    },
+    {
+        "correct_answer": "200 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "50 years",
+            "100 years",
+            "150 years"
+        ],
+        "question": "What is the average lifespan of a Galapagos tortoise?"
+    },
+    {
+        "correct_answer": "Moose",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Reindeer",
+            "Elk",
+            "Sika Deer"
+        ],
+        "question": "What is the largest species of deer?"
+    },
+    {
+        "correct_answer": "8 years",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "3 years",
+            "5 years",
+            "7 years"
+        ],
+        "question": "What is the average lifespan of a rabbit?"
+    },
+    {
+        "correct_answer": "Savannah",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Rainforest",
+            "Desert",
+            "Tundra"
+        ],
+        "question": "What is the natural habitat of a giraffe?"
+    },
+    {
+        "correct_answer": "Kangaroo",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Rabbit",
+            "Squirrel",
+            "Fox"
+        ],
+        "question": "Which of these animals is a marsupial?"
+    },
+    {
+        "correct_answer": "Jellyfish",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Plankton",
+            "Seagrass",
+            "Algae"
+        ],
+        "question": "What is the main diet of a leatherback sea turtle?"
+    },
+    {
+        "correct_answer": "Calf",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Piglet",
+            "Foal",
+            "Kid"
+        ],
+        "question": "What do you call a baby cow?"
+    },
+    {
+        "correct_answer": "Octopus",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Squid",
+            "Jellyfish",
+            "Starfish"
+        ],
+        "question": "Which sea creature has eight arms?"
+    },
+    {
+        "correct_answer": "Canis lupus familiaris",
+        "difficulty": "medium",
+        "incorrect_answers": [
+            "Canis lupus",
+            "Felis catus",
+            "Equus ferus"
+        ],
+        "question": "What is the scientific name for a dog?"
+    },
+    {
+        "correct_answer": "Arctic tern",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Monarch butterfly",
+            "Wildebeest",
+            "Humpback whale"
+        ],
+        "question": "Which of the following animals has the longest migration route?"
+    },
+    {
+        "correct_answer": "50 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "10 years",
+            "20 years",
+            "30 years"
+        ],
+        "question": "What is the average lifespan of a parrot?"
+    },
+    {
+        "correct_answer": "Peacock",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Ostrich",
+            "Swan",
+            "Flamingo"
+        ],
+        "question": "Which bird is famous for its elaborate courtship dance?"
+    },
+    {
+        "correct_answer": "Tundra",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Rainforest",
+            "Desert",
+            "Grassland"
+        ],
+        "question": "What is the natural habitat of a polar bear?"
+    },
+    {
+        "correct_answer": "Bear",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Snake",
+            "Alligator",
+            "Turtle"
+        ],
+        "question": "Which of the following animals is known for its ability to hibernate?"
+    },
+    {
+        "correct_answer": "Tortoise",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Elephant",
+            "Blue whale",
+            "Human"
+        ],
+        "question": "Which animal has the longest lifespan?"
+    },
+    {
+        "correct_answer": "Elephant",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Sloth",
+            "Whale",
+            "Giraffe"
+        ],
+        "question": "Which of the following animals has the longest gestation period?"
+    },
+    {
+        "correct_answer": "School",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Flock",
+            "Pod",
+            "Pack"
+        ],
+        "question": "What is the collective name for a group of fish?"
+    },
+    {
+        "correct_answer": "Omnivore",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Herbivore",
+            "Carnivore",
+            "Detrivore"
+        ],
+        "question": "What is the term for an animal that eats both plants and meat?"
+    },
+    {
+        "correct_answer": "Tiger",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Lion",
+            "Cheetah",
+            "Leopard"
+        ],
+        "question": "What is the largest big cat species?"
+    },
+    {
+        "correct_answer": "Parrot",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Ostrich",
+            "Penguin",
+            "Hummingbird"
+        ],
+        "question": "Which bird is known for its ability to mimic human speech?"
+    },
+    {
+        "correct_answer": "Polar bear",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Sloth bear",
+            "Brown bear",
+            "Kodiak bear"
+        ],
+        "question": "Which of the following is the largest species of bear?"
+    },
+    {
+        "correct_answer": "Sailfish",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Dolphin",
+            "Shark",
+            "Octopus"
+        ],
+        "question": "What is the fastest water animal?"
+    },
+    {
+        "correct_answer": "Camel",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Lion",
+            "Giraffe",
+            "Elephant"
+        ],
+        "question": "Which animal is known for its humps and ability to survive in deserts?"
+    },
+    {
+        "correct_answer": "Bat",
+        "difficulty": "hard",
+        "incorrect_answers": [
+            "Dolphin",
+            "Whale",
+            "Seal"
+        ],
+        "question": "Which of the following animals is known for its ability to hunt by emitting sound waves and detecting their echoes?"
+    },
+    {
+        "correct_answer": "Grassland",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Rainforest",
+            "Tundra",
+            "Desert"
+        ],
+        "question": "What is the natural habitat of a kangaroo?"
+    },
+    {
+        "correct_answer": "Elephant",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Hippo",
+            "Giraffe",
+            "Kangaroo"
+        ],
+        "question": "What is the only mammal that can't jump?"
+    }
+]
