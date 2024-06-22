@@ -16,7 +16,6 @@ const gameOperations = () => {
 
 	//every view will set its own location as a marker (for keeping track of last user location)
 	useEffect(() => {
-		// generateQuestions();
 		setLocation(ROUTES.HOME);
 	}, []);
 
@@ -43,6 +42,11 @@ const gameOperations = () => {
 					backgroundColor="green"
 					handler={() => setGameOperation(GAME_OPERATION.JOIN)}
 				/>
+				{/* <Button
+					text="Генерирай въпроси"
+					backgroundColor="green"
+					handler={() => generateQuestions()}
+				/> */}
 			</View>
 		</IntroWrapper>
 	);
